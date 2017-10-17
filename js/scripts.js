@@ -17,7 +17,7 @@ $(document).ready(function() {
     $(".noun").text(nounInput);
 
 
-    $("#story").show();
+    $("#story").fadeIn();
 
     $("#colorbox").css("background-color", favoriteColor);
 

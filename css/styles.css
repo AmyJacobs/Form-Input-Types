@@ -1,6 +1,14 @@
+body {
+  background-color:#d8cfbe;
+}
+
+h1 {
+  text-align:center;
+}
 
 #story {
   display: none;
+  margin-left:180px;
 }
 #colorbox {
   border: 1px solid black;
@@ -24,4 +32,20 @@
   font-size: 35px;
   font-family: cursive;
   text-align: center;
+}
+
+#color {
+  width:50px;
+}
+
+#animal {
+  width:200px;
+}
+
+.container {
+  margin-top:20px;
+  border: 1px solid black;
+  width:500px;
+  padding:20px;
+  margin-bottom:20px;
 }
