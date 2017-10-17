@@ -2,3 +2,26 @@
 #story {
   display: none;
 }
+#colorbox {
+  border: 1px solid black;
+  width:800px;
+  height:654px;
+  background-image:url('https://openclipart.org/image/800px/svg_to_png/129313/XXL-blank-t-shirt-template.png');
+}
+
+#colorbox img{
+  width:457px;
+  height:242px;
+  margin-top: 130px;
+  margin-left: 180px;
+}
+
+#quote {
+  width: 500px;
+  position: absolute;
+  margin-top: 400px;
+  margin-left: 165px;
+  font-size: 35px;
+  font-family: cursive;
+  text-align: center;
+}
